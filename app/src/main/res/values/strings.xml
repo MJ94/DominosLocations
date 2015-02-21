@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DominosLocations</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="locations">
+        <item>Belknap Street</item>
+        <item>Central Avenue</item>
+        <item>Central Entrance</item>
+        <item>Miller Trunk Highway</item>
+        <item>Woodland Avenue</item>
+    </string-array>
+
+</resources>
